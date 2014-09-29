@@ -12,4 +12,4 @@ int main()
   printf("%d\n", num);
 }
 
-/*这是参考zguangyu0000写的，而且最初在 for 和 while 的用法上面弄错了。注意for后面括号里是分号
+/*这是参考zguangyu0000写的，而且最初在 for 和 while 的用法上面弄错了。注意for后面括号里是分号*/
