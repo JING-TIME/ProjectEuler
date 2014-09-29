@@ -7,3 +7,5 @@ while i < num/2 + 1:
     i += 1
 
 print (num)
+
+# (-｡-;) 算法好重要..此处模仿zguangyu0000.c
