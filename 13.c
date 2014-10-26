@@ -19,7 +19,7 @@ int main()
       sum0 /= 10;
     }
   printf("sum = %d",sum0);
-  for(j=0; j<49; j++)
+  for(j=0; j<50; j++)
     printf("%d",sum[j]);
   printf("\n");
   return 0;
